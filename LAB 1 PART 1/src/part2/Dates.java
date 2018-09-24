@@ -26,7 +26,7 @@ public class Dates {
 		   int day = period.getDays();
 		   int month = period.getMonths();
 		   int year = period.getYears();
-		   System.out.println("The difference between the dates are: " + day +  " Days, " + month +  " Months, " + year +  " Years, ");
+		   System.out.println("The difference between the dates are: " + day +  " Days, " + month +  " Months, " + year +  " Years");
 	    }
 	
 }
